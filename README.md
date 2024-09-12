@@ -14,5 +14,4 @@ The Expense Tracker is a Django-based web application designed to help users tra
 ## Technologies Used
 
 - **Django**: Web framework for building the application.
-- **Font Awesome**: Icon library for user interface elements.
 - **HTML/CSS**: Frontend technologies for building the user interface.
